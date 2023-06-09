@@ -1,3 +1,4 @@
 # ATMExercise
 Simple React ATM
-<img src="./atm.png" />
+
+This project uses React to make deposits and withdrawals from a bank account balance.
